@@ -1,0 +1,11 @@
+[ディレクトリ構成]
+app        アプリのメイン
+boostrap   初期処理やキャッシュなど
+config     アプリの設定
+database   データベース（マイグレーション）
+public     画像、JS、CSS
+resources  bladeなど（HTML的な）
+routes     アプリのURL設定など
+storage    セッションやログなど
+tests      テスト用
+vender     Composerの依存関係
